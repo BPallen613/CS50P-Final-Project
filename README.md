@@ -33,7 +33,7 @@ This program is a Wordle game where the user has up to six attempts to guess a f
 
 **Download the Repository:** Clone the repository or download the ZIP file.
 ```
-
+git clone https://github.com/BPallen613/CS50P-Final-Project.git
 ```
 **Navigate to the Project Directory:**
 ```
